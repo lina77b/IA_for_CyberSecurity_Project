@@ -1,0 +1,122 @@
+KNN : 
+
+. Travail demandé 8 x
+. questions
+
+Naive Bayes : 
+
+. travil demandé 9
+
+.. Presentation
+... markdown : definition naive bayes , gaussian naive bayes 
+
+.. Construire le model
+... importation : sklearn.naive_bayes : GaussianNB
+... initialisation 
+
+.. entrainer le model 
+
+.. effectuer les predictions sur le jeu de test
+
+.. calculer les differentes métriques
+
+.. construire la matrice de confusion 
+
+. questions
+
+Regression logostique :
+
+. travail demandé 10
+
+.. Presentation 
+... markdown : definition regression logistique / mecanisme (One vs rest , Softmax)
+
+.. Construire le model
+... Importation : from sklearn.linear_model import LogisticRegression
+... choisir le solver (lbfgs)
+... initialisation 
+
+.. entrainer le model 
+
+.. tester plusieurs valeurs de C
+
+.. evaluer sur l'ensemble d'evaluation
+... comparer les metriques 
+... valider la meilleure configuration  
+
+.. choisir une configuration
+
+.. effectuer les predictions sur le jeu de test
+
+.. calculer les differentes métriques
+
+.. construire la matrice de confusion 
+
+.questions 
+
+Support vector machine : 
+
+. travil demandé 11
+
+.. Presentation
+... markdown : definition Support vector machine / mecanism
+
+.. Construire le model
+... importation : from sklearn.svm import SVC
+... choix de noyeau (kernel = rbf) 
+... initialisation 
+
+.. entrainer le model 
+
+.. tester plusieurs valeurs de C
+
+.. evaluer sur l'ensemble d'evaluation
+... comparer les metriques 
+... valider la meilleure configuration  
+
+.. choisir une configuration
+
+.. effectuer les predictions sur le jeu de test
+
+.. calculer les differentes métriques
+
+.. construire la matrice de confusion 
+
+.questions 
+
+Arbre de décision :  
+
+. travil demandé 12
+
+.. Presentation
+... markdown : definition arbre de decisions / mecanisme
+
+.. Construire le model
+... importation : from sklean.tree import DecisionTreeClassifier
+... initialisation 
+
+.. entrainer le model 
+
+.. Tester plusieurs valeurs de max_depth
+
+.. mesurer les performances sur l'apprentissage
+
+.. evaluer sur l'ensemble d'evaluation
+... comparer les metriques 
+... valider la meilleure configuration  
+
+.. choisir une configuration
+
+.. effectuer les predictions sur le jeu de test
+
+.. calculer les differentes métriques
+
+.. construire la matrice de confusion 
+
+.questions 
+
+Comparaison des modeles : 
+
+.construire un tableau de synthése 
+
+.Questions d'analyse 
