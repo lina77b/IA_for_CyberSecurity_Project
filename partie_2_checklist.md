@@ -1,7 +1,7 @@
 # Machine Learning Project Checklist
 
 ## 1. K-Nearest Neighbors (KNN)
-- [ x ] **Travail demandé 8**
+- [x] **Travail demandé 8**
 - [ ] **Questions**
 
 ---
@@ -10,13 +10,13 @@
 - [ ] **Travail demandé 9**
   - [ ] **Présentation**
     - [ ] Rédiger la section Markdown : Définition Naive Bayes, Gaussian Naive Bayes
-  - [ ] **Construire le modèle**
-    - [ ] Importation : `from sklearn.naive_bayes import GaussianNB`
-    - [ ] Initialisation
-  - [ ] **Entraîner le modèle**
-  - [ ] **Effectuer les prédictions sur le jeu de test**
-  - [ ] **Calculer les différentes métriques**
-  - [ ] **Construire la matrice de confusion**
+  - [x] **Construire le modèle**
+    - [x] Importation : `from sklearn.naive_bayes import GaussianNB`
+    - [x] Initialisation
+  - [x] **Entraîner le modèle**
+  - [x] **Effectuer les prédictions sur le jeu de test**
+  - [x] **Calculer les différentes métriques**
+  - [x] **Construire la matrice de confusion**
   - [ ] **Questions**
 
 ---
@@ -25,19 +25,19 @@
 - [ ] **Travail demandé 10**
   - [ ] **Présentation**
     - [ ] Rédiger la section Markdown : Définition Régression Logistique / mécanisme (One-vs-Rest, Softmax)
-  - [ ] **Construire le modèle**
-    - [ ] Importation : `from sklearn.linear_model import LogisticRegression`
-    - [ ] Choisir le solver (`lbfgs`)
-    - [ ] Initialisation
-  - [ ] **Entraîner le modèle**
-  - [ ] **Tester plusieurs valeurs de C**
-  - [ ] **Évaluer sur l'ensemble d'évaluation**
-    - [ ] Comparer les métriques
-    - [ ] Valider la meilleure configuration
-  - [ ] **Choisir une configuration**
-  - [ ] **Effectuer les prédictions sur le jeu de test**
-  - [ ] **Calculer les différentes métriques**
-  - [ ] **Construire la matrice de confusion**
+  - [x] **Construire le modèle**
+    - [x] Importation : `from sklearn.linear_model import LogisticRegression`
+    - [x] Choisir le solver (`lbfgs`)
+    - [x] Initialisation
+  - [x] **Entraîner le modèle**
+  - [x] **Tester plusieurs valeurs de C**
+  - [x] **Évaluer sur l'ensemble d'évaluation**
+    - [x] Comparer les métriques
+    - [x] Valider la meilleure configuration
+  - [x] **Choisir une configuration**
+  - [x] **Effectuer les prédictions sur le jeu de test**
+  - [x] **Calculer les différentes métriques**
+  - [x] **Construire la matrice de confusion**
   - [ ] **Questions**
 
 ---
